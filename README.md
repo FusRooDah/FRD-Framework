@@ -1,12 +1,15 @@
 FRD-oophp
 =========
 
-FRD-oophp builds upon FRD-base.
+FRD is a framework that has some easy to use features.
 
-FRD-oophp is used as course material in the university course http://dbwebb.se/oophp.
+This is created as a part of OOPHP in a webbprogramming course at Blekinge Tekniska Högskola in course http://dbwebb.se/oophp.
 
-Built by Mikael Roos, me@mikaelroos.se.
+Built by Kevin Paulsson.
 
+There are som easy to use features such as:
+Easy access to databases using the PDO method
+Autoloader which helps you to never worry about including a class or its files.
 
 
 License 
